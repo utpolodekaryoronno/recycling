@@ -124,6 +124,7 @@ h4{
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
+   align-items: center;
 }
 .menu ul li{
    padding: 0 15px;
